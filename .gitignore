@@ -1,0 +1,30 @@
+﻿# Maven / Java
+/target/
+/.classpath
+/.project
+/.settings/
+/.mvn/
+*.class
+*.log
+
+# Spring Boot
+/logs/
+
+# Node
+/node_modules/
+/dist/
+/build/
+
+# Vite
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+
+# IDEs
+/.idea/
+/.vscode/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
